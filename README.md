@@ -19,3 +19,4 @@ Ingeniero Biomédico y Analista de Datos con amplia experiencia en el diseño, d
 
 📱 Teléfono: +57 301 127 6277
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
