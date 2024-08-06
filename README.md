@@ -1,3 +1,6 @@
+
+![image](https://github.com/user-attachments/assets/963c8c90-b93b-4ca1-af0c-2e8997970fb9)
+
 👨‍⚕️ Sobre mí:
 
 Ingeniero Biomédico y Analista de Datos con amplia experiencia en el diseño, desarrollo y mantenimiento de sistemas médicos avanzados, enfocado en mejorar la eficiencia y calidad de la atención médica mediante el análisis de datos.
