@@ -13,7 +13,7 @@ Ingeniero Biomédico y Analista de Datos con amplia experiencia en el diseño, d
 
 🌱 Siempre en busca de nuevas oportunidades para aplicar y expandir mis conocimientos, manteniéndome al día con las últimas tecnologías y metodologías en mi campo.
 
-📫 ¿Quieres contactar conmigo? [![Oscar](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/oscar-mu%C5%84oz-4058a5213/)
+📫 ¿Quieres contactar conmigo? [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/oscar-mu%C5%84oz-4058a5213/)
 
 📧 Correo: oscarmunoz911@gmail.com
 
