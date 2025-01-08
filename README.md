@@ -1,5 +1,5 @@
 
-![image](https://github.com/user-attachments/assets/963c8c90-b93b-4ca1-af0c-2e8997970fb9)
+![OscarDA](https://github.com/user-attachments/assets/8ce04672-88f8-41b2-8b4d-0f7830cd7ccd)
 
 👨‍⚕️ Sobre mí:
 
